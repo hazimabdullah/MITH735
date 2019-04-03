@@ -7,7 +7,7 @@ Misti Yang, Callan Roten, Hazim Abdullah-Smith
 
 The roles are lateral and non-hierarchical. Each member has an individual project and goals that are supported by the function of this group and its charter.
 
-** Practices and Procedures **
+**Practices and Procedures**
 
 *Responsibilities*
 * Each team member is responsible for:
