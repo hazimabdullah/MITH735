@@ -1,12 +1,15 @@
-# MY TITLE
-This is a paragraph
+# Tourism, Black Inequities and the Limits of Diaspora
 
-This is a **second** paragraph
+An interdisciplinary exploration by *Hazim Abdullah-Smith*
 
-*item 1*
+Department of American Studies
 
-*item 2*
+University of Maryland, College Park
 
-*item 3*
 
-This is a [my link](http://google.com)
+
+*About*
+
+*[Project Proposal]* (https://hazimabdullah.github.io/MITH735/proposalversion)
+
+*[Charter]* (https://hazimabdullah.github.io/MITH735/charterversion)
