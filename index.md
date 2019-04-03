@@ -8,7 +8,7 @@ University of Maryland, College Park
 
 
 
-[About]((https://hazimabdullah.github.io/MITH735/about)
+[About](https://hazimabdullah.github.io/MITH735/about)
 
 [Project Proposal](https://hazimabdullah.github.io/MITH735/proposalversion)
 
